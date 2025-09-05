@@ -163,6 +163,9 @@ input[type="checkbox"]{
 label{
     display :none;
 }
+footer a{
+    color:#2bd5ff;
+}
   @media (max-width:850px){
     .side{
         display :none;
